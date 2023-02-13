@@ -1,2 +1,2 @@
-# PortfolioProjects-Data-Analyst
-Data Analyst Portfolio Project Repository
+# Data Analyst Portfolio Project Repository
+This repository contains all the freelance projects I have done in different languages and programs. 
