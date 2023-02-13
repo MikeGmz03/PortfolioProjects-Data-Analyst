@@ -1,3 +1,7 @@
+# FizzBuzz | Programa que pide un número límite y cuenta todos los números hasta dicho número | HackerRank test
+# En los múltiplos de 3 imprime Fizz, en los multiplos de 5 imprime Buzz y en los múltiplos de ambos imprime FizzBuzz
+
+
 #Definición del FizzBuzz
 def fizzBuzz(n):
     i=1
