@@ -1,6 +1,7 @@
-#Programa para convertir de PM/AM a 24 horas
+#Programa para convertir horarios de de PM/AM a 24 horas | test de HackerRank
 
-#Ingresa formato hh:mm:ss PM y sale formato hh:mm:ss
+#Ingresa formato hh:mm:ssPM y sale formato hh:mm:ss en horario militar
+
 def timeConversion(s):
     hh= int((s[0:2]))
     mm=((s[3:5]))
